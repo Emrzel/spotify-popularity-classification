@@ -1,0 +1,9 @@
+# Sadece GitHub'ın yüklemeye İZİN VERMEDİĞİ (100 MB üzeri) devasa dosyaları yoksayar:
+dataset-analysis/data/model_ready/X_train.csv
+dataset-analysis/data/model_ready/X_train_c*
+dataset-analysis/models/best_model*
+dataset-analysis/models/final_model*
+.venv/
+llvmlite.dll
+*.pkl
+*.csv

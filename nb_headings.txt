@@ -1,0 +1,27 @@
+﻿Cell 2: ## 1´©ÅÔâú DATASET ANAL─░Z─░: Shape, Info, Describe, Head, Tail
+Cell 2: ###  ­şôĞ Veri Setini Y├╝kleyelim ve ─░lk Bak─▒┼ş Atal─▒m
+Cell 8: ## 2´©ÅÔâú VER─░ T─░PLER─░ ANAL─░Z─░
+Cell 8: ### ­şöı Her Kolonun Veri Tipi ve Da─ş─▒l─▒m─▒
+Cell 10: ## SAYISAL DE─Ş─░┼ŞKENLER─░N DA─ŞILIMI
+Cell 10: ### ­şôè T├╝m Numerik Features i├ğin Histogram Analizi
+Cell 12: ## 3´©ÅÔâú HEDEF DE─Ş─░┼ŞKEN ANAL─░Z─░ (Popularity)
+Cell 12: ### ­şÄ» 3.1. ─░statistiksel ├ûzet
+Cell 15: ### ­şöù 3.3. Korelasyon Analizi
+Cell 18: ### ­şôĞ 3.5. Kategorik ─░li┼şkiler (Box Plots)
+Cell 20: ### ­şôê 3.4. ─░kili ─░li┼şkiler (Scatter Plots)
+Cell 22: ### ­şîÉ 3.6. ├çok Boyutlu G├Ârselle┼ştirme
+Cell 24: ## 5´©ÅÔâú EKS─░K DE─ŞER ANAL─░Z─░
+Cell 24: ### ÔØî Missing Values - Is─▒l Harita ve Y├╝zdeler
+Cell 26: ## 6´©ÅÔâú AYKIRI DE─ŞER VE Z-SCORE ANAL─░Z─░
+Cell 26: ### ­şÄ» Outlier Detection + Z-Score ─░mputasyon
+Cell 28: ## 7´©ÅÔâú FEATURE ENGINEERING
+Cell 28: ### ÔÜÖ´©Å Yeni ├ûzellik Yaratma: Log Transform + Etkile┼şim + Mood Score
+Cell 30: ## 8´©ÅÔâú ONE-HOT ENCODING 
+Cell 32: ## 9´©ÅÔâú TRAIN-TEST SPLIT 
+Cell 34: ## ­şöş MODEL KAR┼ŞILA┼ŞTIRMA
+Cell 37: ##
+Cell 37:  ###
+Cell 40: ## 
+Cell 40: ### 
+Cell 46: ## 
+Cell 46: ### 
