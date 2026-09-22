@@ -1,4 +1,4 @@
-Ders: YBS3259 - Makine Öğrenmesi Final Projesi
+Ders: YBS3259 - Makine Öğrenmesi Dersi Final Projesi
 Öğrenci: Emir Özel
 Numara: 2321223233
 
